@@ -1,2 +1,4 @@
 # Swifone
 Bulk international phone number generator with city/state targeting for call center campaigns.
+
+Swifone is a lightweight and user-friendly Python application with a Tkinter GUI designed to generate bulk phone numbers across over 30 countries, with filtering options for specific states and cities. Ideal for call centers, marketing campaigns, and lead generation, Swifone helps users quickly build targeted phone lists for outreach efforts. The intuitive interface allows easy selection of geographic filters and generates numbers that can be exported for further use. This project requires Python 3 to run, and after cloning the repository, users can install any dependencies (if applicable) and launch the app with a simple command. Swifone is distributed under the permissive MIT License, encouraging use and modification. For any questions or collaboration inquiries, please contact inmujtuba@gmail.com .
